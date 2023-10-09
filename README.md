@@ -40,14 +40,6 @@ _Tutor_
 - Marking work under strict time pressure
 
 ## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Problem solving
 
 I have always had a strong analytical mind set which I am constantly developing. From UKMT maths challenges during secondary school to a challenging engineering degree and finally to Makers Academy. At Makers Academy I focussed my problem solving skills on software developing which has quickly become my passion. At Makers Academy I enhanced my skills with Object-Oriented Programming (OOP) practices, allowing me to dissect difficult challenges into smaller manageable steps.

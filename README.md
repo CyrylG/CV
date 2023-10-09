@@ -1,25 +1,43 @@
-## Your Name
+## Cyryl Gotkowicz
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A highly motivated, self-driven individual eager to start a career in software development. I have completed a Civil Engineering degree and have recently graduated from Makers Academy, a comprehensive software development boot camp. With my love of problem solving fueling my journey I am excited to take on a new challenge in tech. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Battle Tetris**            | A tetris game where 2 players share the same board | JavaScript, HTML, CSS, Jest, DOM |
+| **Acebook** | A MERN stack social media web app | MongoDB, Express, React, Node, Jest, Cypress |
+| **MakersBNB** | An AirBNB clone built using Ruby and PostgreSQL | Ruby, RSpec, PostgreSQL |
+
+## Education
+
+#### Makers Academy (March 2023 - July 2023)
+- Engaged in an intensive and highly selective 16-week full-time software development course at Makers Academy, renowned for its rigorous curriculum and emphasis on Emotional Intelligence (EQ) development.
+- Developed full-stack applications using a comprehensive array of technologies and frameworks, including JavaScript, Express, React, Node, MongoDB, Jest, Cypress, Ruby, Sinatra, PostgreSQL, and RSpec and demonstrated proficiency in OOP, TDD and version control.
+- Collaborated effectively in team environments to deliver projects utilising agile methodologies that involved stand-ups, planning sessions, sprints, pair-programming and retrospectives to enhance teamwork and clear communication.
+
+#### Civil Engineering at City, University of London (September 2018 - July 2022)
+
+- My dissertation dealt with the internal stability of reinforcement cages under self-weight. Whilst working on this dissertation I learnt how to use new software to model reinforcement cages and had to effectively research a niche topic.
+
+<!-- #### Any other qualifications
+
+That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Private Tutor** (September 2020 to July 2023)  
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Teaching young people in a way that is informative and engaging at the same time
+- Working with parents and students to plan out most effective teaching methods tailored for each student
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Kumon** (September 2021 to September 2022)  
+_Tutor_
 
-- Any experience relevent to software development
+- Teaching young people in a way that is informative and engaging at the same time
+- Reporting progress to parents
+- Marking work under strict time pressure
 
 ## Skills
 
@@ -30,40 +48,18 @@ Consider skills relevent to software development. Then consider projects you've 
 
 Here's an example
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+#### Problem solving
 
-#### Another skill
+I have always had a strong analytical mind set which I am constantly developing. From UKMT maths challenges during secondary school to a challenging engineering degree and finally to Makers Academy. At Makers Academy I focussed my problem solving skills on software developing which has quickly become my passion. At Makers Academy I enhanced my skills with Object-Oriented Programming (OOP) practices, allowing me to dissect difficult challenges into smaller manageable steps.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Team Work and Communication
 
-#### Another skill
+I have had a lot of experience working in a team. During my time at university I have had many team projects, including an intensive 2 week project where as a team we had to work together effectively to find a way to accommodate everyone's schedules and divide the workload. At Makers Academy I amplified these skills through agile methodologies, delivering products efficiently and effectively in team projects working both remotely and in person. 
 
+#### Organization and attention to detail
 
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+During my time at university and working as a tutor I am used to working efficiently under time pressure. I have developed an understanding of the importance of being organized to ensure that I can look back at any work I have done and understand it without any trouble.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love to spend my time actively, I especially enjoy rock climbing as it combines physical exertion with problem solving, I also enjoy badminton and going to the gym. I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places.

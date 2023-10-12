@@ -6,7 +6,7 @@ A highly motivated, self-driven individual eager to start a career in software d
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Battle Tetris**            | A tetris game where 2 players share the same board | JavaScript, HTML, CSS, Jest, DOM |
+| [**Battle Tetris**](https://github.com/CKMurison/Tetris)            | A tetris game where 2 players share the same board, for deployed demo click [here](https://michael-szczepanski.itch.io/battle-tetris) | JavaScript, HTML, CSS, Jest, DOM |
 | **Acebook** | A MERN stack social media web app | MongoDB, Express, React, Node, Jest, Cypress |
 | **MakersBNB** | An AirBNB clone built using Ruby and PostgreSQL | Ruby, RSpec, PostgreSQL |
 
@@ -17,9 +17,10 @@ A highly motivated, self-driven individual eager to start a career in software d
 - Developed full-stack applications using a comprehensive array of technologies and frameworks, including JavaScript, Express, React, Node, MongoDB, Jest, Cypress, Ruby, Sinatra, PostgreSQL, and RSpec and demonstrated proficiency in OOP, TDD and version control.
 - Collaborated effectively in team environments to deliver projects utilising agile methodologies that involved stand-ups, planning sessions, sprints, pair-programming and retrospectives to enhance teamwork and clear communication.
 
-#### Civil Engineering at City, University of London (September 2018 - July 2022)
-
-- My dissertation dealt with the internal stability of reinforcement cages under self-weight. Whilst working on this dissertation I learnt how to use new software to model reinforcement cages and had to effectively research a niche topic.
+#### City, University of London (September 2018 - July 2022)
+- BEng (Hons) Civil Engineering - 2.1
+- Was first introduced to coding via Matlab
+- Learned to use various software in short space of time
 
 <!-- #### Any other qualifications
 

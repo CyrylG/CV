@@ -7,8 +7,8 @@ A highly motivated, self-driven individual eager to start a career in software d
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Battle Tetris**](https://github.com/CKMurison/Tetris)            | A tetris game where 2 players share the same board, for deployed demo click [here](https://michael-szczepanski.itch.io/battle-tetris) | JavaScript, HTML, CSS, Jest, DOM |
-| **Acebook** | A MERN stack social media web app | MongoDB, Express, React, Node, Jest, Cypress |
-| **MakersBNB** | An AirBNB clone built using Ruby and PostgreSQL | Ruby, RSpec, PostgreSQL |
+| [**Acebook**](https://github.com/cshjp/acebook-team-earth) | A MERN stack social media web app | MongoDB, Express, React, Node, Jest, Cypress |
+| [**MakersBNB**](https://github.com/bwilton93/makersbnb) | An AirBNB clone built using Ruby and PostgreSQL | Ruby, RSpec, PostgreSQL |
 
 ## Education
 
@@ -21,10 +21,12 @@ A highly motivated, self-driven individual eager to start a career in software d
 - BEng (Hons) Civil Engineering - 2.1
 - Was first introduced to coding via Matlab
 - Learned to use various software in short space of time
+- Became finance officer of rock climbing society
 
-<!-- #### Any other qualifications
+#### Other qualifications and achievements
 
-That in some arguable way make you a better software developer or well-rounded person -->
+- Took part in 7 UKMT maths challenges, achieving 1 bronze, 4 silver and 2 gold certificates
+- Took part in FMSP Mathematics Competition 
 
 ## Work Experience
 
@@ -39,6 +41,21 @@ _Tutor_
 - Teaching young people in a way that is informative and engaging at the same time
 - Reporting progress to parents
 - Marking work under strict time pressure
+
+**Construction** (Summers 2021, 2022, 2023)
+
+- Followed instruction to complete job efficiently
+- Communicated with clients
+
+**Cubs Leader** (September 2016 to August 2017)
+
+- Organised activities for kids
+- Reporting to parents regarding their kids
+
+**GlaxoSmithKlein** (Summer 2015)
+
+- Worked with ADP(accelerating delivery and performance) team
+- Learned about the office environment and communication between team members
 
 ## Skills
 #### Problem solving
@@ -55,4 +72,7 @@ During my time at university and working as a tutor I am used to working efficie
 
 ## Hobbies
 
-I love to spend my time actively, I especially enjoy rock climbing as it combines physical exertion with problem solving, I also enjoy badminton and going to the gym. I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places.
+- I love a challenge, I have always enjoyed activities that will test me, from board games and puzzles to recently getting involved with hackathons.
+- I enjoy being active, I like to go to the gym, play badminton and go rock climbing.
+- I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places.
+<!-- I love to spend my time actively, I especially enjoy rock climbing as it combines physical exertion with problem solving, I also enjoy badminton and going to the gym. I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places. -->

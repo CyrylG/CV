@@ -1,7 +1,7 @@
 ## 👨‍💻Cyryl Gotkowicz
 
 Bilingual Junior software developer with a passion for maths, coding and problem solving
-- 🎓Recent graduate from Makers Academy full time software development course
+[-](🎓)Recent graduate from Makers Academy full time software development course
 - Proficient in Ruby and JavaScript. Experience in Python
 - Knowledgeable in coding practices such as Agile methodologies, Test-Driven Development and version control
 - 2:1 graduate in Civil Engineering (City, University of London)

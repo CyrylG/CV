@@ -1,6 +1,7 @@
 ## 👨‍💻Cyryl Gotkowicz
 
 A highly motivated, self-driven individual eager to start a career in software development. I have completed a Civil Engineering degree and have recently graduated from Makers Academy, a comprehensive software development boot camp. With my love of problem solving fueling my journey I am excited to take on a new challenge in tech. 
+<!-- A junior software developer with a passion for coding and problem solving. A degree in civil engineering and 3 years experience tutoring, skilled in working in a high-pace, high-pressure environment. Looking to transition into the technology sector, driven by a love for problem solving and the enthusiasm to make systems more efficient. Recent graduate from Makers Academy bootcamp, acquiring substantial coding knowledge and essential coding practices such as Agile methodologies and Test-Driven Development. -->
 
 ## ⚒️Projects
 

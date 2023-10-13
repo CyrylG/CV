@@ -63,11 +63,9 @@ Bilingual Junior software developer with a passion for maths, coding and problem
 - Learned about the office environment and communication between team members
 
 ## ⚙️Skills
-#### Problem solving
+<!-- #### Problem solving
 
-<!-- languages -->
-
-<!-- I have always had a strong analytical mind set which I am constantly developing. From UKMT maths challenges during secondary school to a challenging engineering degree and finally to Makers Academy. At Makers Academy I focussed my problem solving skills on software developing which has quickly become my passion. At Makers Academy I enhanced my skills with Object-Oriented Programming (OOP) practices, allowing me to dissect difficult challenges into smaller manageable steps.
+I have always had a strong analytical mind set which I am constantly developing. From UKMT maths challenges during secondary school to a challenging engineering degree and finally to Makers Academy. At Makers Academy I focussed my problem solving skills on software developing which has quickly become my passion. At Makers Academy I enhanced my skills with Object-Oriented Programming (OOP) practices, allowing me to dissect difficult challenges into smaller manageable steps.
 
 #### Team Work and Communication
 
@@ -76,6 +74,8 @@ I have had a lot of experience working in a team. During my time at university I
 #### Organization and attention to detail
 
 During my time at university and working as a tutor I am used to working efficiently under time pressure. I have developed an understanding of the importance of being organized to ensure that I can look back at any work I have done and understand it without any trouble. -->
+
+<!-- languages -->
 
 ## 🧗‍♂️Hobbies
 

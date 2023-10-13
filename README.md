@@ -1,8 +1,8 @@
-## Cyryl Gotkowicz
+## 👨‍💻Cyryl Gotkowicz
 
 A highly motivated, self-driven individual eager to start a career in software development. I have completed a Civil Engineering degree and have recently graduated from Makers Academy, a comprehensive software development boot camp. With my love of problem solving fueling my journey I am excited to take on a new challenge in tech. 
 
-## Projects
+## ⚒️Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -10,7 +10,7 @@ A highly motivated, self-driven individual eager to start a career in software d
 | [**Acebook**](https://github.com/cshjp/acebook-team-earth) | A MERN stack social media web app | MongoDB, Express, React, Node, Jest, Cypress |
 | [**MakersBNB**](https://github.com/bwilton93/makersbnb) | An AirBNB clone built using Ruby and PostgreSQL | Ruby, RSpec, PostgreSQL |
 
-## Education
+## 🎓Education
 
 #### Makers Academy (March 2023 - July 2023)
 - Engaged in an intensive and highly selective 16-week full-time software development course at Makers Academy, renowned for its rigorous curriculum and emphasis on Emotional Intelligence (EQ) development.
@@ -28,7 +28,7 @@ A highly motivated, self-driven individual eager to start a career in software d
 - Took part in 7 UKMT maths challenges, achieving 1 bronze, 4 silver and 2 gold certificates
 - Took part in FMSP Mathematics Competition 
 
-## Work Experience
+## ☀️Work Experience
 
 **Private Tutor** (September 2020 to July 2023)  
 
@@ -57,7 +57,7 @@ _Tutor_
 - Worked with ADP(accelerating delivery and performance) team
 - Learned about the office environment and communication between team members
 
-## Skills
+## ⚙️Skills
 #### Problem solving
 
 I have always had a strong analytical mind set which I am constantly developing. From UKMT maths challenges during secondary school to a challenging engineering degree and finally to Makers Academy. At Makers Academy I focussed my problem solving skills on software developing which has quickly become my passion. At Makers Academy I enhanced my skills with Object-Oriented Programming (OOP) practices, allowing me to dissect difficult challenges into smaller manageable steps.
@@ -70,9 +70,8 @@ I have had a lot of experience working in a team. During my time at university I
 
 During my time at university and working as a tutor I am used to working efficiently under time pressure. I have developed an understanding of the importance of being organized to ensure that I can look back at any work I have done and understand it without any trouble.
 
-## Hobbies
+## 🧗‍♂️Hobbies
 
 - I love a challenge, I have always enjoyed activities that will test me, from board games and puzzles to recently getting involved with hackathons.
 - I enjoy being active, I like to go to the gym, play badminton and go rock climbing.
 - I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places.
-<!-- I love to spend my time actively, I especially enjoy rock climbing as it combines physical exertion with problem solving, I also enjoy badminton and going to the gym. I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places. -->

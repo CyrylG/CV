@@ -38,7 +38,7 @@ Bilingual Junior software developer with a passion for maths, coding and problem
 ## 💼Work Experience
 
 **Tutor** 
- _Private Tutor (September 2020 to July 2023)  & Kumon (September 2021 to September 2022)_
+_Private Tutor (September 2020 to July 2023)  & Kumon (September 2021 to September 2022)_
 
 - Teaching young people in a way that is informative and engaging at the same time
 - Working with parents and students to plan out most effective teaching methods tailored for each student

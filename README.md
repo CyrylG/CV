@@ -51,7 +51,7 @@ _Tutor_
 **Cubs Leader** (September 2016 to August 2017)
 
 - Organised activities for kids
-- Reporting to parents regarding their kids
+- Reporting to parents
 
 **GlaxoSmithKlein** (Summer 2015)
 

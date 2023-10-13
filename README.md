@@ -1,7 +1,10 @@
 ## 👨‍💻Cyryl Gotkowicz
 
-A highly motivated, self-driven individual eager to start a career in software development. I have completed a Civil Engineering degree and have recently graduated from Makers Academy, a comprehensive software development boot camp. With my love of problem solving fueling my journey I am excited to take on a new challenge in tech. 
-<!-- A junior software developer with a passion for coding and problem solving. A degree in civil engineering and 3 years experience tutoring, skilled in working in a high-pace, high-pressure environment. Looking to transition into the technology sector, driven by a love for problem solving and the enthusiasm to make systems more efficient. Recent graduate from Makers Academy bootcamp, acquiring substantial coding knowledge and essential coding practices such as Agile methodologies and Test-Driven Development. -->
+Bilingual Junior software developer with a passion for maths, coding and problem solving
+- 2:1 graduate in Civil Engineering (City, University of London)
+- Competed at Senior Gold (highest) level in UKMT international Math competitions (2012-2017)
+- 3 Years experience math tutor for GCSE and A-Level students
+- Recent graduate from Makers Academy full time software development course
 
 ## ⚒️Projects
 
@@ -20,7 +23,7 @@ A highly motivated, self-driven individual eager to start a career in software d
 
 #### City, University of London (September 2018 - July 2022)
 - BEng (Hons) Civil Engineering - 2.1
-- Was first introduced to coding via Matlab
+- First introduced to coding via Matlab
 - Learned to use various software in short space of time
 - Became finance officer of rock climbing society
 
@@ -28,6 +31,7 @@ A highly motivated, self-driven individual eager to start a career in software d
 
 - Took part in 7 UKMT maths challenges, achieving 1 bronze, 4 silver and 2 gold certificates
 - Took part in FMSP Mathematics Competition 
+<!-- add codewars -->
 
 ## 💼Work Experience
 
@@ -53,7 +57,7 @@ _Tutor_
 - Organised activities for kids
 - Reporting to parents
 
-**GlaxoSmithKlein** (Summer 2015)
+**GlaxoSmithKlein work experience** (Summer 2015)
 
 - Worked with ADP(accelerating delivery and performance) team
 - Learned about the office environment and communication between team members
@@ -73,6 +77,7 @@ During my time at university and working as a tutor I am used to working efficie
 
 ## 🧗‍♂️Hobbies
 
-- I love a challenge, I have always enjoyed activities that will test me, from board games and puzzles to recently getting involved with hackathons.
+- I love a challenge, I have always enjoyed activities that will test me, from math competitions and puzzles to recently getting involved with hackathons.
+- Math challenges and competitions.
 - I enjoy being active, I like to go to the gym, play badminton and go rock climbing.
 - I also love to travel, I enjoy experiencing new cultures, new cuisines and exploring new places.

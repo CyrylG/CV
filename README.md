@@ -1,7 +1,9 @@
 ## 👨‍💻Cyryl Gotkowicz
 
 Bilingual Junior software developer with a passion for maths, coding and problem solving
-- Recent graduate from Makers Academy full time software development course learning Ruby and JavaScript
+- Recent graduate from Makers Academy full time software development course
+- Proficient in Ruby and JavaScript. Experience in Python
+- Knowledgeable in coding practices such as Agile methodologies, Test-Driven Development and version control
 - 2:1 graduate in Civil Engineering (City, University of London)
 - Competed at Senior Gold (highest) level in UKMT international Math competitions (2012-2017)
 - 3 Years experience math tutor for GCSE and A-Level students

@@ -28,7 +28,7 @@ A highly motivated, self-driven individual eager to start a career in software d
 - Took part in 7 UKMT maths challenges, achieving 1 bronze, 4 silver and 2 gold certificates
 - Took part in FMSP Mathematics Competition 
 
-## ☀️Work Experience
+## 💼Work Experience
 
 **Private Tutor** (September 2020 to July 2023)  
 

@@ -63,10 +63,10 @@ _Private Tutor (September 2020 to July 2023)  & Kumon (September 2021 to Septemb
 - Learned about the office environment and communication between team members
 
 ## ⚙️Skills
-- <img src="image-3.png" alt="drawing" width="200"/> Problem solving
-- <img src="image-2.png" alt="drawing" width="200"/> Team work
-- <img src="image-1.png" alt="drawing" width="200"/> Organization 
-- <img src="image.png" alt="drawing" width="200"/> Leadership
+- <img src="image-3.png" alt="drawing" width="20"/> Problem solving
+- <img src="image-2.png" alt="drawing" width="20"/> Team work
+- <img src="image-1.png" alt="drawing" width="20"/> Organization 
+- <img src="image.png" alt="drawing" width="20"/> Leadership
 <!-- #### Problem solving
 
 I have always had a strong analytical mind set which I am constantly developing. From UKMT maths challenges during secondary school to a challenging engineering degree and finally to Makers Academy. At Makers Academy I focussed my problem solving skills on software developing which has quickly become my passion. At Makers Academy I enhanced my skills with Object-Oriented Programming (OOP) practices, allowing me to dissect difficult challenges into smaller manageable steps.

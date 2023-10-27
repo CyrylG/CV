@@ -1,4 +1,4 @@
-## 👨‍💻Cyryl Gotkowicz
+## 👨‍💻Cyryl Gotkowicz, 24 <img src="IMG_9471.heic" alt="prof_pic" width="50"/>
 
 Bilingual Junior software developer with a passion for maths, coding and problem solving
 - Recent graduate from Makers Academy full time software development course

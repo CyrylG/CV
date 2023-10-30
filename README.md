@@ -54,7 +54,7 @@ _Private Tutor (September 2020 to July 2023)  & Kumon (September 2021 to Septemb
 
 **Cubs Leader** (September 2016 to August 2017)
 
-- Supporting developemnt of youger cubs 
+- Supporting development of younger cubs 
 - creating and leading activities to support Cubs development e.g. social, teamwork and XXX
 - Summarising and Reporting to parents with key feedback 
 

@@ -70,7 +70,7 @@ _Private Tutor (September 2020 to July 2023)  & Kumon (September 2021 to Septemb
 - <img src="image.png" alt="drawing" width="20"/> Leadership
 
 ## <img src="image-4.png" alt="drawing" width="30"/> Languages
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+- 🇬🇧 English
 - 🇵🇱 Polish
 <!-- #### Problem solving
 
